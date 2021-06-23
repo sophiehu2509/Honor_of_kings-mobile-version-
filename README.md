@@ -1,5 +1,9 @@
 # Honor of kings(mobile version)
 
+The codes are on the master branch.
+
+The demo address:  https://sophiehu2509.github.io/Honor_of_kings-mobile-version-/
+
 ![751624477648_ pic](https://user-images.githubusercontent.com/11381376/123162110-35c38900-d43e-11eb-8ae1-c331dd05b26f.jpg)
 
 ![761624477657_ pic](https://user-images.githubusercontent.com/11381376/123162127-3b20d380-d43e-11eb-95e5-72ed643265b5.jpg)
