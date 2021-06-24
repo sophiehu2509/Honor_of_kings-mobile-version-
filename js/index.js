@@ -222,15 +222,12 @@ function createBlock(blockContainer) {
     return resp.json();
   });
   var sliderContainer = $('.video-list .slider-container');
-  // 生成视频的元素
   for (var key in resp) {
     var videos = resp[key];
-    // 生成一个slider-item
     var div = document.createElement('div');
     div.classList.add('slider-item');
     var html = videos
       .map(function (item) {
-        // item: 每一个视频对象
         return `<a
         href="${item.link}"
       >
